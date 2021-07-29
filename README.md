@@ -1,5 +1,8 @@
 # week3
 
+## Demo：
+https://lcijoyce622.github.io/Todo-List-with-LocalStorage/
+
 ## Project setup
 ```
 npm install
